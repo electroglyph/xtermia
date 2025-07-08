@@ -1,3 +1,7 @@
+## Pausing this for now
+I'm not gonna archive this in case I need to fix anything, but I'm focusing on https://github.com/electroglyph/xtermia2 for now. 
+I like the aesthetic of this client, but typing directly in the terminal and windowing half the terminal to use as a map display is a bit of a hassle.
+
 ## xtermia, an xterm.js webclient for Evennia
 This replaces the webclient of an [Evennia](https://github.com/evennia/evennia/tree/main) game with the [xterm.js](https://github.com/xtermjs/xterm.js) terminal emulator.
 This is a demo that you can copy over a freshly initialized Evennia game.
